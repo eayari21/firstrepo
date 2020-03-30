@@ -1,1 +1,3 @@
 First text file for GIT.
+
+More changes to be commited.
